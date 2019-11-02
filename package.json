@@ -33,10 +33,10 @@
     "standard": "^7.1.1"
   },
   "dependencies": {
-    "browser-crypto": "^1.0.1",
+    "bs58check": "git+https://github.com/ferrumnet/bs58check.git",
     "crypto-js": "^3.1.9-1",
-    "safe-buffer": "^5.1.1",
-    "secp256k1": "^3.0.1"
+    "elliptic": "^6.5.1",
+    "safe-buffer": "^5.1.1"
   },
   "scripts": {
     "lint": "standard",
