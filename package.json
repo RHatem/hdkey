@@ -34,7 +34,6 @@
   },
   "dependencies": {
     "browser-crypto": "^1.0.1",
-    "bs58check": "^2.1.2",
     "crypto-js": "^3.1.9-1",
     "safe-buffer": "^5.1.1",
     "secp256k1": "^3.0.1"
