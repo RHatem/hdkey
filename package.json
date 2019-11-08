@@ -35,7 +35,7 @@
   "dependencies": {
     "bs58check": "git+https://github.com/ferrumnet/bs58check.git",
     "crypto-js": "^3.1.9-1",
-    "elliptic": "^6.5.1",
+    "elliptic": "git+https://github.com/ferrumnet/elliptic.git",
     "safe-buffer": "^5.1.1"
   },
   "scripts": {
